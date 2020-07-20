@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/app.ico</file>
+        <file>res/blk_1.bmp</file>
+        <file>res/blk_2.bmp</file>
+        <file>res/blk_3.bmp</file>
+        <file>res/blk_4.bmp</file>
+        <file>res/blk_5.bmp</file>
+        <file>res/blk_6.bmp</file>
+        <file>res/blk_7.bmp</file>
+        <file>res/blk_8.bmp</file>
+        <file>res/blk_close.bmp</file>
+        <file>res/blk_mine.bmp</file>
+        <file>res/blk_mineboom.bmp</file>
+        <file>res/blk_open.bmp</file>
+        <file>res/blk_redflag.bmp</file>
+        <file>res/blk_wrongmine.bmp</file>
+        <file>res/cnt_0.bmp</file>
+        <file>res/cnt_1.bmp</file>
+        <file>res/cnt_2.bmp</file>
+        <file>res/cnt_3.bmp</file>
+        <file>res/cnt_4.bmp</file>
+        <file>res/cnt_5.bmp</file>
+        <file>res/cnt_6.bmp</file>
+        <file>res/cnt_7.bmp</file>
+        <file>res/cnt_8.bmp</file>
+        <file>res/cnt_9.bmp</file>
+        <file>res/cnt_none.bmp</file>
+        <file>res/yellowboy_cool.bmp</file>
+        <file>res/yellowboy_look_dn.bmp</file>
+        <file>res/yellowboy_look_up.bmp</file>
+        <file>res/yellowboy_lose.bmp</file>
+        <file>res/yellowboy_smile.bmp</file>
+        <file>res/cnt_background.bmp</file>
+        <file>res/background.bmp</file>
+        <file>res/title_angle.bmp</file>
+        <file>res/margin_dn.bmp</file>
+        <file>res/margin_left.bmp</file>
+        <file>res/margin_right.bmp</file>
+        <file>res/margin_up.bmp</file>
+        <file>res/chessboard_angle.bmp</file>
+        <file>res/blk_question.bmp</file>
+    </qresource>
+</RCC>
